@@ -48,9 +48,3 @@ def generate_fibonacci_terms(n):
 ## Contributions
 Contributions are welcome! If you have any suggestions or improvements, please open an issue or submit a pull request.
 
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
----
-
-This README file provides an overview of the Fibonacci Generator project, including its features, usage instructions, and implementation details. Feel free to modify it according to your specific project requirements and structure.
